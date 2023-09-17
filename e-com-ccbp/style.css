@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.ecom-nav-img {
+    width: 80px;
+}
+
+.ecom-car-btns {
+    background-color: transparent;
+    border: 0px;
+}
+
+.ecom_service_card_img {
+    width: 40%;
+
+}
+
+.ecom_service_card_heading {
+    font-size: 26px;
+    text-align: center;
+    color: #1f2933;
+}
+
+.ecom_service_card_des {
+    font-size: 20px;
+    text-align: center;
+    color: #7b8794;
+}
+
+.ecom_service_main_heading {
+    font-size: 38px;
+    color: #1f2933;
+    font-weight: 500;
+}
+
+.ecom_service_main_des {
+    font-size: 16px;
+    color: #616c7c;
+    font-weight: 400;
+}
+
+.ecom_service_main_container {
+    background-color: #183b56;
+}
+
+
+.ecom_product_card_1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    background-size: cover;
+    border-radius: 20px;
+    padding-top: 100px;
+}
+
+.ecom_product_card_2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png ');
+    background-size: cover;
+    border-radius: 20px;
+    padding-top: 100px;
+}
+
+.ecom_product_card_heading {
+    color: white;
+    font-size: 38px;
+}
+
+.ecom_product_card_des {
+    color: white;
+    font-size: 22px;
+}
+
+.ecom_product_card_button {
+    width: 136px;
+    margin: 10px;
+    border: 0px;
+    height: 36px;
+    border-radius: 20px;
+    color: #ff9f00;
+}
+
+.ecom_visit_icon {
+    font-size: 29px;
+}
+
+.ecom_product_main_container {
+    background-color: #fffff2;
+}
+
+
+
+.ecom_offer_main_container {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+}
+
+.ecom_offer_icon {
+    width: 100%;
+}
+
+.ecom_offer_heading {
+    font-size: 22px;
+    font-weight: bold;
+    color: #ad2167;
+    text-align: center;
+}
+
+.ecom_offer_des {
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+.ecom_offer_des_span {
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.yellow {
+    color: yellow;
+    font-weight: 600;
+    text-align: center;
+}
+
+.ecom_offer_des_discount {
+    color: white;
+    font-size: 22px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.ecom_offer_sub_des {
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+}
+
+
+.trend_card_sub_heading {
+    font-size: 16px;
+    margin-top: 10px;
+    font-weight: 500;
+    color: #959ead;
+}
+
+.trend_card_heading {
+    font-size: 25px;
+    color: #183d56;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.trend_card_sub_heading_next {
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: 500;
+    color: #959ead;
+}
+
+.trend_card_icon {
+    color: #ff9f00;
+}
+
+.trend_main_heading {
+    color: #183b56;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.trend_border {
+    border-radius: 15px;
+}
+
+.ecom_offer_main_container {
+    border-radius: 20px;
+    margin: 16px;
+}
+
+.ecom_footer_icon {
+    font-size: 20px;
+    color: #5a7184;
+    background-color: #152c3e;
+    border: 0px solid white;
+    border-radius: 50%;
+}
+
+.ecom_footer_address {
+    font-size: 16px;
+    padding: 12px;
+    color: #5a7184;
+}
+
+.ecom_footer_heading {
+    font-size: 18px;
+    color: #5a7184;
+    font-weight: 700;
+}
+
+.ecom_footer_des {
+    font-size: 12px;
+    color: #5a7184;
+    font-weight: 500;
+}
+
+.ecom_footer_main_container {
+    background-color: #0d2436;
+}
+
+hr {
+    background-color: #5a7184;
+}
+
+.copy_footer_ecom {
+    color: #5a7184;
+    font-size: 12px;
+    text-align: center;
+}
+
+.ecom_product_flexs {
+    justify-content: space-even;
+}
+
+.height {
+    height: 40vh;
+}
